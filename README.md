@@ -49,8 +49,8 @@ export default CONFIG;
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/voiceboost-frontend.git
-    cd voiceboost-frontend
+    git clone https://github.com/subhanaziz406/text-to-speech-frontend.git
+    cd text-to-speech-frontend
     ```
 
 2. Install dependencies:
