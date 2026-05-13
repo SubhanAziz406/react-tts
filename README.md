@@ -33,8 +33,7 @@ API base URL is set in [src/config/index.js](src/config/index.js):
 
 ```javascript
 const CONFIG = {
-    baseURL: 'https://voiceboost.ai',
-    // baseURL: 'http://localhost:5000',
+    baseURL: 'http://localhost:5000',
 };
 export default CONFIG;
 ```
